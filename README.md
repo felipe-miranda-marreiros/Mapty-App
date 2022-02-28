@@ -1,10 +1,17 @@
+![alt-text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![alt-text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![alt-text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![alt-text]( https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 # Mapty-App
 
-Mapty App faz parte do repositório <a href="https://github.com/felipe-miranda-marreiros/JavaScript">JavaScript</a>.
+Mapty App faz parte do repositório <a href="https://github.com/felipe-miranda-marreiros/JavaScript">JavaScript</a> e é também parte do projeto do curso <a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2022: From Zero to Expert!</a>
 
 ## Sobre 
 
-O objetivo desse projeto é a utilização de <strong>Programação Orientada a Objetos</strong> em JavaScript. Nela, foi aplicado conceitos com base em <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">ES6 Classes</a> - criação de classes, objetos, herança entre classes, polimorfismo, abstração, encapsulamento e proteção de propriedades e métodos.
+O objetivo desse projeto é a utilização de <strong>Programação Orientada a Objetos</strong> em JavaScript. Nela, foi aplicado conceitos com base em:
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">ES6 Classes</a>
+* Criação de classes;
+* Objetos;
+* Herança entre classes;
+* Polimorfismo, abstração, encapsulamento;
+* E proteção de propriedades e métodos.
 
 Se você está procurando por Constructor Function, Prototype ou Object.create(), acesse o repositório <a href="https://github.com/felipe-miranda-marreiros/JavaScript/tree/main/POO">POO</a>.
 
@@ -53,6 +60,13 @@ Maptty App funciona como track no qual você pode guardar os treinos que fez dur
 ### Como usar?
 
 Basta permitir que o aplicativo utilize sua localidade, então o mapa carregará automaticamente. Clique em qualquer parte dele e um pop-up será aberto pedindo informações a respeito do tipo de treino realizado.
+
+### Guia
+
+Não possui requisitos. Você pode ter acesso ao conteúdo do repositório por Git Clone.
+```
+https://github.com/felipe-miranda-marreiros/Mapty-App.git
+```
 
 ### Ferramentas Utilizadas
 
